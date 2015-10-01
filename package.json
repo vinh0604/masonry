@@ -5,7 +5,7 @@
   "main": "masonry.js",
   "dependencies": {
     "get-size": "~1.2.2",
-    "outlayer": "~1.4.0",
+    "outlayer": "vinh0604/outlayer",
     "fizzy-ui-utils": "^1.0.1"
   },
   "devDependencies": {
